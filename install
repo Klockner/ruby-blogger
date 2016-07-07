@@ -1,0 +1,2 @@
+Could not find generator 'sorcery'. Maybe you meant 'helper', 'mailer' or 'model'
+Run `rails generate --help` for more options.
